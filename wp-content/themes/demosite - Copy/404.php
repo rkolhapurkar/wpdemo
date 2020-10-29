@@ -1,0 +1,4 @@
+<?php 
+
+
+?><p>ERROR 404 page not found</p>
